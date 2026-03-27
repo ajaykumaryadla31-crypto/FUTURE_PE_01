@@ -1,0 +1,37 @@
+PROMPT-1
+Act as a professional website copywriter.
+
+Write a high-converting homepage for a cafe called "Urban Brew Cafe" located in Hyderabad.
+
+Target audience: students and young professionals.
+
+Include:
+- Headline (catchy and modern)
+- Subheadline
+- About section (short and engaging)
+- Why choose us (4 bullet points)
+
+Tone: friendly, modern, and engaging.
+Make it simple, clear, and customer-focused.
+PROMPT-2
+Write website service descriptions for a cafe offering:
+
+- Coffee
+- Snacks
+- Workspace
+
+Each service should include:
+- Title
+- 2-3 line description
+- Customer benefit
+
+Tone: simple and attractive.
+PROMPT-3
+Write strong Call-To-Action (CTA) sections for a cafe website.
+
+Include:
+- Visit us CTA
+- Order now CTA
+- Book a table CTA
+
+Make it short, persuasive, and action-driven.
