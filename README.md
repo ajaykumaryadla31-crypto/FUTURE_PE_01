@@ -36,3 +36,10 @@ using prompt engineering techniques.
 ---
 
 ## 📂 Project Structure
+AI-Website-Copy-Generator/
+│
+├── prompts.txt        # All prompts used
+├── homepage.txt       # Generated homepage content
+├── services.txt       # Generated services content
+├── cta.txt            # Generated CTA sections
+└── README.md          # Project documentation
